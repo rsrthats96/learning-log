@@ -1,6 +1,5 @@
 # learning-log
-Pharmaceutical scientist learning ML
-A public record of my 6-month transition from pharmaceutical R&D
+Pharmaceutical scientist learning ML. A public record of my 6-month transition from pharmaceutical R&D
 into AI/ML Scientist roles in pharma.
 
 ## Background
